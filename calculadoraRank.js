@@ -1,6 +1,6 @@
 //Declarando Váriaveis
 let saldoVitoria= calculo (50 , 20)
-let nivel=0
+let nivel=1
 //Criando função com retorno
 function calculo (vitorias,derrotas){
     let resultado= vitorias-derrotas
